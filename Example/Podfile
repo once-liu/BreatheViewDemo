@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BreatheView_Example' do
+  pod 'BreatheView', :path => '../'
+
+  target 'BreatheView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
