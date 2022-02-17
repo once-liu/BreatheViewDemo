@@ -5,11 +5,17 @@
 [![License](https://img.shields.io/cocoapods/l/BreatheView.svg?style=flat)](https://cocoapods.org/pods/BreatheView)
 [![Platform](https://img.shields.io/cocoapods/p/BreatheView.svg?style=flat)](https://cocoapods.org/pods/BreatheView)
 
+## OverView
+BreatheView is a subclass of UIView, written in Swift, that enables animate.
+![Watch the video]/Users/macmini/Desktop/心跳.mp4
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+- ARC
+- iOS 9
 
 ## Installation
 
@@ -18,6 +24,17 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'BreatheView'
+```
+
+## Usage
+```
+import BreatheView
+
+let breatheView = BreatheView()
+breatheView.startBreathAnimation()
+
+// stop animation
+breatheView.stopBreathAnimation()
 ```
 
 ## Author
