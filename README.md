@@ -7,7 +7,7 @@
 
 ## OverView
 BreatheView is a subclass of UIView, written in Swift, that enables animate.
-![Watch the video](/Users/macmini/Desktop/心跳.mp4)
+![Watch the video](https://github.com/once-liu/BreatheViewDemo/blob/main/Example/BreatheView/BreatheAnimation.mp4)
 
 
 ## Requirements
