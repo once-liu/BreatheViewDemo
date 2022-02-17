@@ -1,0 +1,6 @@
+framework module BreatheView {
+  umbrella header "BreatheView-umbrella.h"
+
+  export *
+  module * { export * }
+}

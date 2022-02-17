@@ -1,0 +1,16 @@
+PODS:
+  - BreatheView (0.1.0)
+
+DEPENDENCIES:
+  - BreatheView (from `../`)
+
+EXTERNAL SOURCES:
+  BreatheView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BreatheView: fb9b9eb1cacb020d5598494eb903c4e477abc5a4
+
+PODFILE CHECKSUM: e15bf7c1cd6a0314712d674c33f916c07a820f45
+
+COCOAPODS: 1.10.1

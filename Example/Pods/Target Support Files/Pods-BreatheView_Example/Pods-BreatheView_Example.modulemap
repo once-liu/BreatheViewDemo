@@ -1,0 +1,6 @@
+framework module Pods_BreatheView_Example {
+  umbrella header "Pods-BreatheView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

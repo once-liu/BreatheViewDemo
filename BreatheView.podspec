@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'BreatheView'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of BreatheView.'
+  s.summary          = '可以做心跳动画的 UIView 的子类.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,9 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  * 实现自定义 Pod 的 Demo。一个可做动画的 UIView 的子类。可实现功能：
+  * - 心跳动画
+  * - 停止动画
                        DESC
 
   s.homepage         = 'https://github.com/lzc/BreatheView'
