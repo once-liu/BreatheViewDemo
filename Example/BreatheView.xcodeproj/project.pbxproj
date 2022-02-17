@@ -14,6 +14,7 @@
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
 		917490B0ED308B8E7E4386F3 /* Pods_BreatheView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 19A3D1563DD5C35F31C23AE4 /* Pods_BreatheView_Tests.framework */; };
+		9A06C59A27BE2E9900A916B6 /* BreatheAnimation.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 9A06C59927BE2E9900A916B6 /* BreatheAnimation.mp4 */; };
 		D47CE2FD9EB10FDF3943C081 /* Pods_BreatheView_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E09D55E9DF90E16F2E7ECB78 /* Pods_BreatheView_Example.framework */; };
 /* End PBXBuildFile section */
 
@@ -43,6 +44,7 @@
 		65B2A3E0DC317BCA1C02B7A7 /* BreatheView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BreatheView.podspec; path = ../BreatheView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6BBA1D6B065A2AEE2BAA29EA /* Pods-BreatheView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BreatheView_Tests.debug.xcconfig"; path = "Target Support Files/Pods-BreatheView_Tests/Pods-BreatheView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		73CA435B512372DE6E97654E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		9A06C59927BE2E9900A916B6 /* BreatheAnimation.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = BreatheAnimation.mp4; sourceTree = "<group>"; };
 		B53040A3C3BBABEE96BA4E3C /* Pods-BreatheView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BreatheView_Example.debug.xcconfig"; path = "Target Support Files/Pods-BreatheView_Example/Pods-BreatheView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BB6D21F156E02898FB687327 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		E09D55E9DF90E16F2E7ECB78 /* Pods_BreatheView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BreatheView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -118,6 +120,7 @@
 		607FACD31AFB9204008FA782 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9A06C59927BE2E9900A916B6 /* BreatheAnimation.mp4 */,
 				607FACD41AFB9204008FA782 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -248,6 +251,7 @@
 			files = (
 				607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */,
 				607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */,
+				9A06C59A27BE2E9900A916B6 /* BreatheAnimation.mp4 in Resources */,
 				607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
