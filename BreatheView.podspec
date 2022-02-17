@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   * - 停止动画
                        DESC
 
-  s.homepage         = 'https://github.com/lzc/BreatheView'
+  s.homepage         = 'https://github.com/once-liu/BreatheViewDemo.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lzc' => 'zuchuang.liu@melot.cn' }
